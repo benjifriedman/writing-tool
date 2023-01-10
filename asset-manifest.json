@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/writing-tool/static/css/main.803338b9.css",
+    "main.css": "/writing-tool/static/css/main.24c05383.css",
     "main.js": "/writing-tool/static/js/main.2aac76ac.js",
     "index.html": "/writing-tool/index.html",
-    "main.803338b9.css.map": "/writing-tool/static/css/main.803338b9.css.map",
+    "main.24c05383.css.map": "/writing-tool/static/css/main.24c05383.css.map",
     "main.2aac76ac.js.map": "/writing-tool/static/js/main.2aac76ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.803338b9.css",
+    "static/css/main.24c05383.css",
     "static/js/main.2aac76ac.js"
   ]
 }
