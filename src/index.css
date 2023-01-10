@@ -6,6 +6,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior-y: none;
+  overscroll-behavior-x: none;
+
 }
 
 code, pre {
@@ -81,7 +84,6 @@ textarea:focus, input:focus { outline: none; }
   background-color: dodgerblue;
   color: dodgerblue;
 }
-
 .greenText {
   background-color: green;
   color: green;
