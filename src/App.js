@@ -12,8 +12,12 @@ function App() {
   }
 
   function toggleUI() {
+    let copyTextButton = document.querySelector(".copyTextButton");
     let colorBox = document.querySelector(".colorSelector");
     let sizeBox = document.querySelector(".sizeSelector");
+    copyTextButton.style.visibility === "hidden"
+      ? (copyTextButton.style.visibility = "visible")
+      : (copyTextButton.style.visibility = "hidden");
     colorBox.style.visibility === "hidden"
       ? (colorBox.style.visibility = "visible")
       : (colorBox.style.visibility = "hidden");

@@ -16,14 +16,16 @@ code, pre {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
     white-space:pre-line; 
-}
+}   
 
 textarea {
   background-color: #000;
-  color: #fff;
+  font-size: 1em;
+  color: #333;
   width: 80vw;
-  height: 45px;
-border-style: none;
+  height: 25px;
+  border-style: none;
+  padding-bottom: 10px;
 }
 
 textarea:focus, input:focus { outline: none; }
