@@ -4,5 +4,4 @@ Could be good for writers and poets
 
 Or anyone who wants to play around with text 👍
 
-npm start
-npm run deploy
+The website is on GitHub pages at: https://benjifriedman.github.io/writing-tool/
